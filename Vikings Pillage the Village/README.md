@@ -13,7 +13,9 @@
 - https://youtu.be/Lc2Bn_Nx75I
 - https://answers.unity.com/questions/1281552/i-want-to-attack-me-enemy-and-decrease-their-healt.html
 - https://github.com/Unity-Technologies/NavMeshComponents
-- Mixamo
+- https://www.mixamo.com/#/?page=1&query=morak&type=Character
+- https://www.mixamo.com/#/?page=1&query=castle+guard&type=Character
+- Various animations from mixamo
 - https://www.youtube.com/watch?v=S_USClc_r5c&t=8s&ab_channel=Jayanam
 - https://www.youtube.com/watch?v=UjkSFoLxesw
 - https://www.youtube.com/watch?v=qc0xU2Ph86Q
