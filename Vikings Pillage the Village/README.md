@@ -1,6 +1,8 @@
 # READ ME
 
-## YOUTUBE LINK
+## WebGL Link
+https://play.unity.com/mg/other/webgl-builds-194825?signup=true
+## Youtube Link
 
 ## Sources of third party assets/code
 - https://assetstore.unity.com/packages/3d/characters/humanoids/free-viking-starter-pack-116281
