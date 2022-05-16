@@ -11,3 +11,17 @@
 - https://www.youtube.com/watch?v=R4X8dsQeLQs
 - https://www.youtube.com/watch?v=IvHqAzhIDSE
 - https://youtu.be/Lc2Bn_Nx75I
+- https://answers.unity.com/questions/1281552/i-want-to-attack-me-enemy-and-decrease-their-healt.html
+- https://github.com/Unity-Technologies/NavMeshComponents
+- Mixamo
+- https://www.youtube.com/watch?v=S_USClc_r5c&t=8s&ab_channel=Jayanam
+- https://www.youtube.com/watch?v=UjkSFoLxesw
+- https://www.youtube.com/watch?v=qc0xU2Ph86Q
+- https://www.youtube.com/watch?v=NWNH9XRtuIc&ab_channel=Firemind
+- https://www.youtube.com/watch?v=EJIDPo-nW-Q
+- https://www.youtube.com/watch?v=zc8ac_qUXQY
+- https://www.youtube.com/watch?v=YOaYQrN1oYQ
+- https://www.youtube.com/watch?v=T2tyoB5iwT8
+- https://www.youtube.com/watch?v=BLfNP4Sc_iA
+- https://www.youtube.com/watch?v=EJIDPo-nW-Q
+- https://www.youtube.com/watch?v=NWNH9XRtuIc
