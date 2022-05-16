@@ -12,6 +12,7 @@ https://play.unity.com/mg/other/webgl-builds-194825?signup=true
 - https://assetstore.unity.com/packages/3d/props/weapons/axe-45935
 - https://www.youtube.com/watch?v=R4X8dsQeLQs
 - https://www.youtube.com/watch?v=IvHqAzhIDSE
+- https://youtu.be/V5Watai4qPM
 - https://youtu.be/Lc2Bn_Nx75I
 - https://answers.unity.com/questions/1281552/i-want-to-attack-me-enemy-and-decrease-their-healt.html
 - https://github.com/Unity-Technologies/NavMeshComponents
