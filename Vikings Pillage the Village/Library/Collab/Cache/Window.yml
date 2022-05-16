@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animation for Viking_MC/Animations/Idle.fbx.meta
+    - Assets/Animation for Viking_MC/Animations/Running in space.fbx
+    - Assets/Animation for Viking_MC/Animations/Running in space.fbx.meta
+    - Assets/Animation for Viking_MC/Animations/Running.fbx
+    - Assets/Animation for Viking_MC/Animations/Running.fbx.meta
+    - Assets/Animation for Viking_MC/Animations/Walking (1).fbx
+    - Assets/Animation for Viking_MC/Animations/Walking (1).fbx.meta
+    - Assets/Animation for Viking_MC/Animations/Walking in space.fbx
+    - Assets/Animation for Viking_MC/Animations/Walking in space.fbx.meta
+    - Assets/Animation for Viking_MC/Attack Mask.mask
+    - Assets/Animation for Viking_MC/Attack Mask.mask.meta
+    - Assets/Animation for Viking_MC/Viking_MC controller.controller
+    - Assets/CharacterMovement.cs
+    - Assets/Kevins Knight/castle_guard_01.fbx.meta
+    - Assets/Player_controls.cs
+    - Assets/Player_controls.inputactions
+    - Assets/Scenes/Kevins Scene.unity
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 0101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
